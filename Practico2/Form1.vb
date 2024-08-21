@@ -13,6 +13,19 @@ Public Class Form1
 
     End Sub
 
+    Private Sub RBVaron_CheckedChanged(sender As Object, e As EventArgs) Handles RBVaron.CheckedChanged
+        If RBVaron.Checked Then
+            PictureBox1.BackgroundImage = My.Resources.varon  ' Cambia IconoVaron por el nombre de tu imagen de varón
+        End If
+    End Sub
+
+    Private Sub RBMujer_CheckedChanged(sender As Object, e As EventArgs) Handles RBMujer.CheckedChanged
+        If RBMujer.Checked Then
+            PictureBox1.BackgroundImage = My.Resources.mujer  ' Cambia IconoMujer por el nombre de tu imagen de mujer
+        End If
+    End Sub
+
+
     Private Sub TDni_KeyPress(sender As Object, e As KeyPressEventArgs) Handles TDni.KeyPress
         If Not Char.IsDigit(e.KeyChar) AndAlso Not e.KeyChar = ChrW(Keys.Back) Then
             e.Handled = True
@@ -74,4 +87,15 @@ Public Class Form1
         End If
     End Sub
 
+    Private Sub RadioButton1_CheckedChanged(sender As Object, e As EventArgs) Handles RBVaron.CheckedChanged
+
+    End Sub
+
+    Private Sub BSalir_Click(sender As Object, e As EventArgs) Handles BSalir.Click
+        Me.Close()
+    End Sub
+
+    Private Sub Label1_Click_1(sender As Object, e As EventArgs) Handles Label1.Click
+
+    End Sub
 End Class

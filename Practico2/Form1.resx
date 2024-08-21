@@ -117,4 +117,657 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="&gt;&gt;LDni.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="CBMasterCard.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="&gt;&gt;LTarjetaCredito.Name" xml:space="preserve">
+    <value>LTarjetaCredito</value>
+  </data>
+  <data name="LModificar.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;LNya.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LNombre.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LTarjetaCredito.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="TApellido.Size" type="System.Drawing.Size, System.Drawing">
+    <value>129, 31</value>
+  </data>
+  <data name="TDni.Location" type="System.Drawing.Point, System.Drawing">
+    <value>247, 132</value>
+  </data>
+  <data name="&gt;&gt;CBVisa.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="LNombre.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="LDni.Size" type="System.Drawing.Size, System.Drawing">
+    <value>56, 25</value>
+  </data>
+  <data name="RBMujer.Location" type="System.Drawing.Point, System.Drawing">
+    <value>619, 378</value>
+  </data>
+  <data name="&gt;&gt;TDni.Name" xml:space="preserve">
+    <value>TDni</value>
+  </data>
+  <data name="&gt;&gt;LDni.Parent" xml:space="preserve">
+    <value>Panel1</value>
+  </data>
+  <data name="TDni.Size" type="System.Drawing.Size, System.Drawing">
+    <value>129, 31</value>
+  </data>
+  <data name="TTelefono.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="TDni.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;TNombre.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CBVisa.Size" type="System.Drawing.Size, System.Drawing">
+    <value>70, 29</value>
+  </data>
+  <data name="Label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>500, 92</value>
+  </data>
+  <data name="BEliminar.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="LTelefono.Text" xml:space="preserve">
+    <value>Telefono</value>
+  </data>
+  <data name="CBVisa.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="CBVisa.Text" xml:space="preserve">
+    <value>Visa</value>
+  </data>
+  <data name="&gt;&gt;TDni.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;LModificar.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;BEliminar.Name" xml:space="preserve">
+    <value>BEliminar</value>
+  </data>
+  <data name="LTarjetaCredito.Size" type="System.Drawing.Size, System.Drawing">
+    <value>147, 25</value>
+  </data>
+  <data name="&gt;&gt;BEliminar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="TNombre.Location" type="System.Drawing.Point, System.Drawing">
+    <value>247, 180</value>
+  </data>
+  <data name="TTelefono.Location" type="System.Drawing.Point, System.Drawing">
+    <value>187, 226</value>
+  </data>
+  <data name="Label1.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>789, 668</value>
+  </data>
+  <data name="BEliminar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>115, 59</value>
+  </data>
+  <data name="&gt;&gt;TDni.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CBVisa.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="BGuardar.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="BSalir.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;TApellido.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="BEliminar.Text" xml:space="preserve">
+    <value>Eliminar</value>
+  </data>
+  <data name="LTarjetaCredito.Text" xml:space="preserve">
+    <value>Tarjeta de credito</value>
+  </data>
+  <data name="BEliminar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>261, 515</value>
+  </data>
+  <data name="LModificar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>87, 25</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LTarjetaCredito.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="LTarjetaCredito.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="BGuardar.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;LTelefono.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;TDni.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="LApellido.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;BSalir.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="LNya.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 9pt</value>
+  </data>
+  <data name="LApellido.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="Label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI Black, 14pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;CBNaranja.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RBMujer.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;CBNaranja.Parent" xml:space="preserve">
+    <value>Panel1</value>
+  </data>
+  <data name="PictureBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 155</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="PictureBox1.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="TNombre.Size" type="System.Drawing.Size, System.Drawing">
+    <value>129, 31</value>
+  </data>
+  <data name="RBVaron.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="CBNaranja.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="$this.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>789, 668</value>
+  </data>
+  <data name="&gt;&gt;CBMasterCard.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;PictureBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LNya.Parent" xml:space="preserve">
+    <value>Panel1</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>10, 25</value>
+  </data>
+  <data name="RBVaron.Text" xml:space="preserve">
+    <value>Varón</value>
+  </data>
+  <data name="&gt;&gt;LNombre.Parent" xml:space="preserve">
+    <value>Panel1</value>
+  </data>
+  <data name="&gt;&gt;TApellido.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;RBVaron.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="BGuardar.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAgVJREFUWEft
+        l0soRFEYx2clZTkoUoOyJTUbi0mhvB8zHiUMM1nZEdmYhYViMbEgYkNT6Hq/XynKgrL2WFjLhrJASp/v
+        3Mdp3HvuzDlzrxX/+m3mnO/7fp1773Sv4z8maUXCBKfTOeX1enfMcLvdEW0vgxJEKB7kEgEbCSLcOUFY
+        TazSjcRNISIXJKXmQZqnT0aSJJnxiAQtk0uUvrllulYeHKH7NVJcRXqJXiRmKhB5c27wEApGQUbL+fMX
+        lF5/UIYfPtUVgIFNZa+ezOqwXiKEmKYSMRU4S0CAkOWb1UuMIcxUIaYCsdIfQ4Dgal3US5QhhlQjPwSq
+        pgFe3tQpMTJyxB4cTXrxYLRAM2JIDfJDgBDaA1i4Aji+NXLzCDCPa9GDzHC1SXEFahGDgF3wCNQhqsAB
+        s4kVeATqEUUgsM9sYgUegQZE3pAT2GM2sQKPgBdRBLp2mU2swCPgQwwCp/fqs5ZASK2IQCOiCHTu0MLX
+        d7VbAiG1IgJNiCqwTQtDu+z/AB6GsFZEgPyoCPi3aKFdCAlk+zeZTawgJtCxQQvJMbKOV2PmwjiMhaDA
+        Oi3kuQl7JONAPWIC7Wu0MN5jePcE4JkwDtQjKLDKbGIFIQFX2wqziRV4BOhLaXJGvlxgJ6Sn1l+dxcxv
+        vZZHQ2aYhnyY/KYE6U1mxA05InKd7MT02P9yHI5v96M32vcOwPEAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="&gt;&gt;LTelefono.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="BSalir.Location" type="System.Drawing.Point, System.Drawing">
+    <value>609, 515</value>
+  </data>
+  <data name="LNombre.Text" xml:space="preserve">
+    <value>* Nombre</value>
+  </data>
+  <data name="&gt;&gt;CBNaranja.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;LNombre.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;RBVaron.Name" xml:space="preserve">
+    <value>RBVaron</value>
+  </data>
+  <data name="TNombre.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;LTarjetaCredito.Parent" xml:space="preserve">
+    <value>Panel1</value>
+  </data>
+  <data name="BGuardar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>117, 59</value>
+  </data>
+  <data name="BEliminar.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAbZJREFUWEft
+        ll1xwzAQhA9CIRRCIBRCIBhCIZRBIQSCIRSCH/r3aAiG0N7nWXlURbZPnrw1O3OTzGmlPd2PbbvjjhYM
+        Zg9fZudPs95tcJtk/MfXwRH9dpDwq8R+9gzuzQJ5N3vyQ0vhdOvBxd4y/x8Oe3XMMXyYPXNQfii+b7NH
+        URbgEz8PAutEaYNvPLkt4ty0JlxDmZXmTFA/37iI+wEvWtpFJWvYFA1+BoLZ5l7uXZTiRSYuom2juP0U
+        7ebKzeeR9N8x+UJZ8KiZ83lDNPU1cS3RS13yw5N7HU7kgRKOeEscKAtpbb+cTmK+IfvebeyJJ2ScSa51
+        OGmuGQ0kVxVRcZA1YyiA+dCtAFrEga8vZZVrHU5KJahG2yoOsgyMcq3DSReRr5rwiHgx1qEmrI7NEXHQ
+        PNbF2MxlOCqus1JJYw8i4OSlDG4c0CwO/PZ8Q6R9sUcxKLKQW1gcbraPC5y0FAOv0OwAbPfBBAi+uDkj
+        fdZyG1T7PAhuUs2ChGm45eWDtbzKq6hkIhlCvYsy42WfYKvBNkM9kTfmliHcN32AREEglEW3TqlGcMRH
+        uv1/W7Pd8c9h9gtkhN6C10ui9AAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="&gt;&gt;LNombre.Name" xml:space="preserve">
+    <value>LNombre</value>
+  </data>
+  <data name="LDni.Location" type="System.Drawing.Point, System.Drawing">
+    <value>110, 89</value>
+  </data>
+  <data name="LNya.Size" type="System.Drawing.Size, System.Drawing">
+    <value>167, 25</value>
+  </data>
+  <data name="LNya.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="LModificar.Text" xml:space="preserve">
+    <value>Modificar</value>
+  </data>
+  <data name="CBNaranja.Location" type="System.Drawing.Point, System.Drawing">
+    <value>187, 321</value>
+  </data>
+  <data name="TApellido.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="LNya.Text" xml:space="preserve">
+    <value>Nombre y Apellido:</value>
+  </data>
+  <data name="&gt;&gt;LTelefono.Parent" xml:space="preserve">
+    <value>Panel1</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="RBMujer.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;LApellido.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="BEliminar.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;PictureBox1.Name" xml:space="preserve">
+    <value>PictureBox1</value>
+  </data>
+  <data name="BSalir.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 59</value>
+  </data>
+  <data name="&gt;&gt;RBVaron.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LNya.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="LTelefono.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="RBVaron.Location" type="System.Drawing.Point, System.Drawing">
+    <value>530, 378</value>
+  </data>
+  <data name="&gt;&gt;CBNaranja.Name" xml:space="preserve">
+    <value>CBNaranja</value>
+  </data>
+  <data name="&gt;&gt;RBVaron.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;LApellido.Name" xml:space="preserve">
+    <value>LApellido</value>
+  </data>
+  <data name="LNombre.Location" type="System.Drawing.Point, System.Drawing">
+    <value>75, 134</value>
+  </data>
+  <data name="LDni.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="CBNaranja.Size" type="System.Drawing.Size, System.Drawing">
+    <value>98, 29</value>
+  </data>
+  <data name="&gt;&gt;TTelefono.Name" xml:space="preserve">
+    <value>TTelefono</value>
+  </data>
+  <data name="CBVisa.Location" type="System.Drawing.Point, System.Drawing">
+    <value>187, 356</value>
+  </data>
+  <data name="LTelefono.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;TNombre.Name" xml:space="preserve">
+    <value>TNombre</value>
+  </data>
+  <data name="&gt;&gt;TTelefono.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CBNaranja.Text" xml:space="preserve">
+    <value>Naranja</value>
+  </data>
+  <data name="&gt;&gt;Panel1.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;Panel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Panel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>58, 47</value>
+  </data>
+  <data name="&gt;&gt;Label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="BSalir.Text" xml:space="preserve">
+    <value>Salir</value>
+  </data>
+  <data name="&gt;&gt;LApellido.Parent" xml:space="preserve">
+    <value>Panel1</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Pequeño formulario</value>
+  </data>
+  <data name="BSalir.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAapJREFUWEft
+        luFtwjAUhDMCIzACI3QERmAERmADRmAERmAERugIjEC/q+5JT6lrOyThR9VTTors57tnv9jx8I9XcRqG
+        DfwwN25eDzY8wRt8wGeBV3j2kGWAoIyP8BOWTH/j/EQQ2cGS8R1qtkpMq3KBWplxnFZqZ7lp0EALZDEZ
+        VuvtmJz09CQ0wANDRLPbursLxGtVpidBoGquJY7BWuL1v/KADcP86ub3QDOFUb/ptZsLDPPseeYDkbtf
+        2yBYWysSWKTu1upLgsBY/v6sG7BeW5MA1T+CL24ugn6d//tOhmY9CTq19yPw4OYi6M97fCrLSdChWUXQ
+        0c1F0D8rAfjz+1JjCqruf/qV7KGTbfMAnXH8rvIRwvrOIiD+aA83zYb12uYCQfkgqn6IvUCnz1xQIMxH
+        8aQ/YAnS9GsfGJBX4ebm90EZw3yhqG7JVYDp+ELSX0egWHj2WFFae3f3gQH5ZAyR1gkpY50RSvh18wAD
+        x0kEv6/fUAeN7oB61xbOpRNfN89ARCZZuEUZL3+VQ1CJlK7fYaqlX964BEy2UL9b1VylWt/0D2IYvgA2
+        XWLKWxYjuQAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="LModificar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>287, 92</value>
+  </data>
+  <data name="RBVaron.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;BGuardar.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;TNombre.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="LNya.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="BSalir.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;BGuardar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Panel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LNya.Name" xml:space="preserve">
+    <value>LNya</value>
+  </data>
+  <data name="&gt;&gt;RBMujer.Name" xml:space="preserve">
+    <value>RBMujer</value>
+  </data>
+  <data name="LTarjetaCredito.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="TApellido.Location" type="System.Drawing.Point, System.Drawing">
+    <value>187, 179</value>
+  </data>
+  <data name="&gt;&gt;BGuardar.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="LDni.Text" xml:space="preserve">
+    <value>* DNI</value>
+  </data>
+  <data name="BGuardar.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="Label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="BGuardar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>120, 515</value>
+  </data>
+  <data name="&gt;&gt;LApellido.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;BEliminar.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;RBMujer.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="LTelefono.Size" type="System.Drawing.Size, System.Drawing">
+    <value>79, 25</value>
+  </data>
+  <data name="&gt;&gt;CBVisa.Parent" xml:space="preserve">
+    <value>Panel1</value>
+  </data>
+  <data name="CBNaranja.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;TApellido.Parent" xml:space="preserve">
+    <value>Panel1</value>
+  </data>
+  <data name="&gt;&gt;CBMasterCard.Parent" xml:space="preserve">
+    <value>Panel1</value>
+  </data>
+  <data name="RBVaron.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 29</value>
+  </data>
+  <data name="RBMujer.Size" type="System.Drawing.Size, System.Drawing">
+    <value>82, 29</value>
+  </data>
+  <data name="&gt;&gt;CBVisa.Name" xml:space="preserve">
+    <value>CBVisa</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>10, 10, 10, 10</value>
+  </data>
+  <data name="Label1.Text" xml:space="preserve">
+    <value>Nuevo Cliente</value>
+  </data>
+  <data name="&gt;&gt;LTelefono.Name" xml:space="preserve">
+    <value>LTelefono</value>
+  </data>
+  <data name="LTarjetaCredito.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, 321</value>
+  </data>
+  <data name="&gt;&gt;LDni.Name" xml:space="preserve">
+    <value>LDni</value>
+  </data>
+  <data name="CBMasterCard.Text" xml:space="preserve">
+    <value>MasterCard</value>
+  </data>
+  <data name="&gt;&gt;CBVisa.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CBMasterCard.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;Label1.Name" xml:space="preserve">
+    <value>Label1</value>
+  </data>
+  <data name="LApellido.Size" type="System.Drawing.Size, System.Drawing">
+    <value>91, 25</value>
+  </data>
+  <data name="&gt;&gt;TTelefono.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="LModificar.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="LTelefono.Location" type="System.Drawing.Point, System.Drawing">
+    <value>87, 229</value>
+  </data>
+  <data name="Panel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>380, 439</value>
+  </data>
+  <data name="&gt;&gt;TTelefono.Parent" xml:space="preserve">
+    <value>Panel1</value>
+  </data>
+  <data name="Panel1.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;LModificar.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="LNombre.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="BSalir.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="CBMasterCard.Location" type="System.Drawing.Point, System.Drawing">
+    <value>187, 391</value>
+  </data>
+  <data name="&gt;&gt;PictureBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="BGuardar.Text" xml:space="preserve">
+    <value>Guardar</value>
+  </data>
+  <data name="&gt;&gt;BGuardar.Name" xml:space="preserve">
+    <value>BGuardar</value>
+  </data>
+  <data name="&gt;&gt;BEliminar.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;RBMujer.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>767, 612</value>
+  </data>
+  <data name="LApellido.Text" xml:space="preserve">
+    <value>* Apellido</value>
+  </data>
+  <data name="CBMasterCard.Size" type="System.Drawing.Size, System.Drawing">
+    <value>129, 29</value>
+  </data>
+  <data name="TTelefono.Size" type="System.Drawing.Size, System.Drawing">
+    <value>129, 31</value>
+  </data>
+  <data name="LApellido.Location" type="System.Drawing.Point, System.Drawing">
+    <value>75, 182</value>
+  </data>
+  <data name="&gt;&gt;BSalir.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="LNombre.Size" type="System.Drawing.Size, System.Drawing">
+    <value>91, 25</value>
+  </data>
+  <data name="&gt;&gt;CBMasterCard.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="RBMujer.Text" xml:space="preserve">
+    <value>Mujer</value>
+  </data>
+  <data name="&gt;&gt;PictureBox1.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="BEliminar.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;TApellido.Name" xml:space="preserve">
+    <value>TApellido</value>
+  </data>
+  <data name="&gt;&gt;LModificar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Panel1.Name" xml:space="preserve">
+    <value>Panel1</value>
+  </data>
+  <data name="&gt;&gt;LDni.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="Label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>214, 38</value>
+  </data>
+  <data name="PictureBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="PictureBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>522, 187</value>
+  </data>
+  <data name="&gt;&gt;TNombre.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="LDni.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;RBMujer.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;BSalir.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LModificar.Name" xml:space="preserve">
+    <value>LModificar</value>
+  </data>
+  <data name="LNya.Location" type="System.Drawing.Point, System.Drawing">
+    <value>44, 33</value>
+  </data>
+  <data name="&gt;&gt;Label1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;BSalir.Name" xml:space="preserve">
+    <value>BSalir</value>
+  </data>
+  <data name="&gt;&gt;CBMasterCard.Name" xml:space="preserve">
+    <value>CBMasterCard</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, System.Private.CoreLib, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>es-AR</value>
+  </metadata>
 </root>

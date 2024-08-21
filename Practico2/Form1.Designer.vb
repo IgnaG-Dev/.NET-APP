@@ -22,6 +22,7 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form1))
         LNya = New Label()
         LDni = New Label()
         LNombre = New Label()
@@ -32,111 +33,187 @@ Partial Class Form1
         TDni = New TextBox()
         TNombre = New TextBox()
         TApellido = New TextBox()
+        Panel1 = New Panel()
+        TTelefono = New TextBox()
+        LTarjetaCredito = New Label()
+        LTelefono = New Label()
+        CBMasterCard = New CheckBox()
+        CBVisa = New CheckBox()
+        CBNaranja = New CheckBox()
+        PictureBox1 = New PictureBox()
+        RBVaron = New RadioButton()
+        RBMujer = New RadioButton()
+        BSalir = New Button()
+        Label1 = New Label()
+        Panel1.SuspendLayout()
+        CType(PictureBox1, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
         ' LNya
         ' 
-        LNya.AutoSize = True
-        LNya.Location = New Point(109, 74)
+        resources.ApplyResources(LNya, "LNya")
+        LNya.BackColor = SystemColors.ControlLight
         LNya.Name = "LNya"
-        LNya.Size = New Size(167, 25)
-        LNya.TabIndex = 0
-        LNya.Text = "Nombre y Apellido:"
         ' 
         ' LDni
         ' 
-        LDni.AutoSize = True
-        LDni.Location = New Point(140, 127)
+        resources.ApplyResources(LDni, "LDni")
+        LDni.BackColor = SystemColors.ControlLight
         LDni.Name = "LDni"
-        LDni.Size = New Size(43, 25)
-        LDni.TabIndex = 1
-        LDni.Text = "DNI"
         ' 
         ' LNombre
         ' 
-        LNombre.AutoSize = True
-        LNombre.Location = New Point(109, 175)
+        resources.ApplyResources(LNombre, "LNombre")
+        LNombre.BackColor = SystemColors.ControlLight
         LNombre.Name = "LNombre"
-        LNombre.Size = New Size(78, 25)
-        LNombre.TabIndex = 2
-        LNombre.Text = "Nombre"
         ' 
         ' LApellido
         ' 
-        LApellido.AutoSize = True
-        LApellido.Location = New Point(108, 225)
+        resources.ApplyResources(LApellido, "LApellido")
+        LApellido.BackColor = SystemColors.ControlLight
         LApellido.Name = "LApellido"
-        LApellido.Size = New Size(78, 25)
-        LApellido.TabIndex = 3
-        LApellido.Text = "Apellido"
         ' 
         ' LModificar
         ' 
-        LModificar.AutoSize = True
+        resources.ApplyResources(LModificar, "LModificar")
+        LModificar.BackColor = SystemColors.ControlLight
         LModificar.ForeColor = Color.Red
-        LModificar.Location = New Point(282, 74)
         LModificar.Name = "LModificar"
-        LModificar.Size = New Size(87, 25)
-        LModificar.TabIndex = 4
-        LModificar.Text = "Modificar"
         ' 
         ' BGuardar
         ' 
-        BGuardar.Location = New Point(107, 286)
+        resources.ApplyResources(BGuardar, "BGuardar")
         BGuardar.Name = "BGuardar"
-        BGuardar.Size = New Size(138, 34)
-        BGuardar.TabIndex = 5
-        BGuardar.Text = "Guardar"
         BGuardar.UseVisualStyleBackColor = True
         ' 
         ' BEliminar
         ' 
-        BEliminar.Location = New Point(252, 286)
+        resources.ApplyResources(BEliminar, "BEliminar")
         BEliminar.Name = "BEliminar"
-        BEliminar.Size = New Size(142, 34)
-        BEliminar.TabIndex = 6
-        BEliminar.Text = "Eliminar"
         BEliminar.UseVisualStyleBackColor = True
         ' 
         ' TDni
         ' 
-        TDni.Location = New Point(189, 124)
+        resources.ApplyResources(TDni, "TDni")
         TDni.Name = "TDni"
-        TDni.Size = New Size(205, 31)
-        TDni.TabIndex = 7
         ' 
         ' TNombre
         ' 
-        TNombre.Location = New Point(189, 172)
+        resources.ApplyResources(TNombre, "TNombre")
         TNombre.Name = "TNombre"
-        TNombre.Size = New Size(205, 31)
-        TNombre.TabIndex = 8
         ' 
         ' TApellido
         ' 
-        TApellido.Location = New Point(189, 225)
+        resources.ApplyResources(TApellido, "TApellido")
         TApellido.Name = "TApellido"
-        TApellido.Size = New Size(205, 31)
-        TApellido.TabIndex = 9
+        ' 
+        ' Panel1
+        ' 
+        resources.ApplyResources(Panel1, "Panel1")
+        Panel1.BackColor = SystemColors.ControlLight
+        Panel1.BorderStyle = BorderStyle.Fixed3D
+        Panel1.Controls.Add(TTelefono)
+        Panel1.Controls.Add(LTarjetaCredito)
+        Panel1.Controls.Add(LTelefono)
+        Panel1.Controls.Add(CBMasterCard)
+        Panel1.Controls.Add(CBVisa)
+        Panel1.Controls.Add(CBNaranja)
+        Panel1.Controls.Add(LNombre)
+        Panel1.Controls.Add(TApellido)
+        Panel1.Controls.Add(LApellido)
+        Panel1.Controls.Add(LNya)
+        Panel1.Controls.Add(LDni)
+        Panel1.Name = "Panel1"
+        ' 
+        ' TTelefono
+        ' 
+        resources.ApplyResources(TTelefono, "TTelefono")
+        TTelefono.Name = "TTelefono"
+        ' 
+        ' LTarjetaCredito
+        ' 
+        resources.ApplyResources(LTarjetaCredito, "LTarjetaCredito")
+        LTarjetaCredito.Name = "LTarjetaCredito"
+        ' 
+        ' LTelefono
+        ' 
+        resources.ApplyResources(LTelefono, "LTelefono")
+        LTelefono.Name = "LTelefono"
+        ' 
+        ' CBMasterCard
+        ' 
+        resources.ApplyResources(CBMasterCard, "CBMasterCard")
+        CBMasterCard.Name = "CBMasterCard"
+        CBMasterCard.UseVisualStyleBackColor = True
+        ' 
+        ' CBVisa
+        ' 
+        resources.ApplyResources(CBVisa, "CBVisa")
+        CBVisa.Name = "CBVisa"
+        CBVisa.UseVisualStyleBackColor = True
+        ' 
+        ' CBNaranja
+        ' 
+        resources.ApplyResources(CBNaranja, "CBNaranja")
+        CBNaranja.Name = "CBNaranja"
+        CBNaranja.UseVisualStyleBackColor = True
+        ' 
+        ' PictureBox1
+        ' 
+        resources.ApplyResources(PictureBox1, "PictureBox1")
+        PictureBox1.BackgroundImage = My.Resources.Resources.varon
+        PictureBox1.BorderStyle = BorderStyle.Fixed3D
+        PictureBox1.Name = "PictureBox1"
+        PictureBox1.TabStop = False
+        ' 
+        ' RBVaron
+        ' 
+        resources.ApplyResources(RBVaron, "RBVaron")
+        RBVaron.Checked = True
+        RBVaron.Name = "RBVaron"
+        RBVaron.TabStop = True
+        RBVaron.UseVisualStyleBackColor = True
+        ' 
+        ' RBMujer
+        ' 
+        resources.ApplyResources(RBMujer, "RBMujer")
+        RBMujer.Name = "RBMujer"
+        RBMujer.UseVisualStyleBackColor = True
+        ' 
+        ' BSalir
+        ' 
+        resources.ApplyResources(BSalir, "BSalir")
+        BSalir.Name = "BSalir"
+        BSalir.UseVisualStyleBackColor = True
+        ' 
+        ' Label1
+        ' 
+        resources.ApplyResources(Label1, "Label1")
+        Label1.ForeColor = SystemColors.ActiveCaption
+        Label1.Name = "Label1"
         ' 
         ' Form1
         ' 
-        AutoScaleDimensions = New SizeF(10F, 25F)
+        resources.ApplyResources(Me, "$this")
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(501, 423)
-        Controls.Add(TApellido)
+        Controls.Add(Label1)
+        Controls.Add(BSalir)
+        Controls.Add(RBMujer)
+        Controls.Add(RBVaron)
         Controls.Add(TNombre)
+        Controls.Add(PictureBox1)
         Controls.Add(TDni)
         Controls.Add(BEliminar)
         Controls.Add(BGuardar)
         Controls.Add(LModificar)
-        Controls.Add(LApellido)
-        Controls.Add(LNombre)
-        Controls.Add(LDni)
-        Controls.Add(LNya)
+        Controls.Add(Panel1)
+        MaximizeBox = False
+        MinimizeBox = False
         Name = "Form1"
-        StartPosition = FormStartPosition.CenterScreen
-        Text = "Pequeño Formulario"
+        ShowIcon = False
+        Panel1.ResumeLayout(False)
+        Panel1.PerformLayout()
+        CType(PictureBox1, ComponentModel.ISupportInitialize).EndInit()
         ResumeLayout(False)
         PerformLayout()
     End Sub
@@ -151,5 +228,17 @@ Partial Class Form1
     Friend WithEvents TDni As TextBox
     Friend WithEvents TNombre As TextBox
     Friend WithEvents TApellido As TextBox
+    Friend WithEvents Panel1 As Panel
+    Friend WithEvents PictureBox1 As PictureBox
+    Friend WithEvents RBVaron As RadioButton
+    Friend WithEvents RBMujer As RadioButton
+    Friend WithEvents CBMasterCard As CheckBox
+    Friend WithEvents CBVisa As CheckBox
+    Friend WithEvents CBNaranja As CheckBox
+    Friend WithEvents LTelefono As Label
+    Friend WithEvents TTelefono As TextBox
+    Friend WithEvents LTarjetaCredito As Label
+    Friend WithEvents BSalir As Button
+    Friend WithEvents Label1 As Label
 
 End Class
