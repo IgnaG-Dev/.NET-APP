@@ -29,4 +29,39 @@
             ListBox1.Items.Add(i.ToString())
         Next
     End Sub
+
+    Private Sub BPares_Click(sender As Object, e As EventArgs) Handles BPares.Click
+        ListBox1.Items.Clear()
+        For i As Integer = Val(TextBox1.Text) To Val(TextBox2.Text)
+            If i Mod 2 = 0 Then
+                ListBox1.Items.Add(i)
+            End If
+        Next
+    End Sub
+
+    Private Sub BImpares_Click(sender As Object, e As EventArgs) Handles BImpares.Click
+        ListBox1.Items.Clear()
+        For i As Integer = Val(TextBox1.Text) To Val(TextBox2.Text)
+            If i Mod 2 <> 0 Then
+                ListBox1.Items.Add(i)
+            End If
+        Next
+    End Sub
+
+    Private Sub BPrimos_Click(sender As Object, e As EventArgs) Handles BPrimos.Click
+        ListBox1.Items.Clear()
+        For i As Integer = Val(TextBox1.Text) To Val(TextBox2.Text)
+            If EsPrimo(i) Then
+                ListBox1.Items.Add(i)
+            End If
+        Next
+    End Sub
+
+    Private Function EsPrimo(numero As Integer) As Boolean
+        If numero <= 1 Then Return False
+        For i As Integer = 2 To Math.Sqrt(numero)
+            If numero Mod i = 0 Then Return False
+        Next
+        Return True
+    End Function
 End Class
